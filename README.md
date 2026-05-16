@@ -13,16 +13,18 @@
 
 ## About Me
 
-I am a .NET backend developer who enjoys building real systems and understanding how things work behind the scenes.  
-I focus on writing clean code, structuring projects in a clear way, and improving step by step with every project I build.
+I’m a .NET backend developer who enjoys building real systems and understanding how things work behind the scenes — not just making things work, but making them make sense.
 
-Most of my work is around backend development using ASP.NET, where I build APIs, handle business logic, and connect everything with the database.  
-I care about keeping the code simple, readable, and easy to maintain.
+Most of my work revolves around backend development with ASP.NET, where I build APIs, handle business logic, and design database-driven applications with a strong focus on clean, maintainable code.
 
-I apply Object-Oriented Programming principles in my projects and try to follow SOLID concepts as much as possible.  
-Lately, I’ve been focusing more on Clean Architecture and how to organize large projects in a scalable way.
+I care about writing software that’s simple, readable, and scalable. I apply Object-Oriented Programming principles, follow SOLID practices, and lately I’ve been diving deeper into Clean Architecture and how large systems are structured in the real world.
 
-I also enjoy problem solving and practicing Data Structures and Algorithms to improve my thinking and coding skills.
+When I’m not building backend projects, I’m usually solving problems, practicing Data Structures & Algorithms, refactoring code that already worked but could definitely look cleaner… or somehow turning a simple side project into a full architecture discussion with myself.
+
+Outside of coding, hmmmm I play a bit of lovley games to recharge LoL — mostly League of Legends ^^ CS2, which has probably taught me more patience than debugging ever did.
+
+Always learning, always building, and improving one project at a time.
+
 
 ---
 
