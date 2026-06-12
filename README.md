@@ -21,8 +21,6 @@ I care about writing software that’s simple, readable, and scalable. I apply O
 
 When I’m not building backend projects, I’m usually solving problems, practicing Data Structures & Algorithms, refactoring code that already worked but could definitely look cleaner… or somehow turning a simple side project into a full architecture discussion with myself.
 
-Outside of coding, hmmmm I play a bit of lovley games to recharge LoL — mostly League of Legends ^^ CS2, which has probably taught me more patience than debugging ever did.
-
 Always learning, always building, and improving one project at a time.
 
 
