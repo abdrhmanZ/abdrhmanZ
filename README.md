@@ -1,48 +1,54 @@
 <div align="center">
 
-# Abdelrahman Alaa Badran
+# Hey, I'm Abdelrahman.
 
-**.NET Backend Developer**
+**.NET backend developer from Egypt.**  
+Usually **Abdozz** online.
 
-C# · ASP.NET Core · SQL Server · Clean Architecture
-
-Based in Egypt · Open to backend roles and relocation
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJjb3RqdXFveTU2cDlva2p3dzZ0ZjJ5a3owaHRqNHJrdXg5cmtxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gIIVwIiso8Ln5EWxh/giphy.gif" width="240" alt="An anime GIF from my original profile" />
 
 </div>
 
 ---
 
-I build APIs and business workflows with C#, ASP.NET Core, and Entity Framework Core. I worked remotely with Menna, a Saudi company, delivering two web applications with responsibility for backend development, database design, and deployment.
+I learned a lot of backend development by taking responsibility for whole projects and figuring things out along the way. That included two web apps I delivered while working remotely with a Saudi company.
 
-## Technical skills
+The parts that hold my attention are usually behind a button: who can click it, what state the request is in, and what needs to change together in the database.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, ASP.NET Core Web API, Entity Framework Core |
-| Architecture | Clean Architecture |
-| Libraries | MediatR, FluentValidation |
-| Databases | SQL Server; familiarity with PostgreSQL |
-| Tools | Git, GitHub, Swagger/OpenAPI |
+## A few things I've built
 
-## Selected work
+<details>
+<summary><strong>Shabaket Omar</strong> · What happens between a booking request and a confirmed agreement?</summary>
 
-### Shabaket Omar
+An event-services marketplace with providers, availability, bookings, and payment proofs.
 
-An event-services marketplace. I implemented provider registration and approval, service listings, bookings based on provider availability, payment verification, and WhatsApp notifications.
+One rule I worked on: a customer needs an accepted booking agreement before uploading proof of payment. I also built the provider approval flow and WhatsApp notifications around booking and payment updates.
 
-### Meena Event
+</details>
 
-A survey and document-signing platform with email invitations and PDF exports. I built its initial data layer with SQL Server and Entity Framework Core.
+<details>
+<summary><strong>Meena Event</strong> · Forms, signatures, and the PDF at the end.</summary>
 
-### Investry
+A platform for surveys and document signing, with email invitations and PDF exports. I built its initial data layer with SQL Server and EF Core, and worked on collecting responses and placing signature fields on documents.
 
-My graduation project, developed within a team of four. I worked across the backend modules using ASP.NET Core and MediatR, including three funding models, wallet transactions, and founder identity verification through Didit.
+</details>
 
-## Education and training
+<details>
+<summary><strong>Investry</strong> · Three funding models sharing one backend.</summary>
 
-- Bachelor's Degree in Computer Science, **South Valley National University (SVNU)** - 2026
-- **Route Academy** - .NET Backend Development
+Our graduation project, built by a team of four. I worked across the backend modules connecting founders and investors: equity-based, reward-based, and Mudarabah funding, wallet transactions, and identity verification through Didit.
 
-## Get in touch
+The investment flow brought together funding rules, wallet balances, and database transactions - plenty to think through in one request.
 
-[abdo3la42@gmail.com](mailto:abdo3la42@gmail.com)
+</details>
+
+## What I reach for
+
+`C#` `ASP.NET Core` `EF Core` `SQL Server`
+
+I use **Clean Architecture**, **MediatR**, and **FluentValidation** in my backend work. I'm also familiar with **PostgreSQL**.
+
+---
+
+Open to .NET backend roles and relocation.  
+**Say hello:** [abdo3la42@gmail.com](mailto:abdo3la42@gmail.com)
