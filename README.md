@@ -2,8 +2,7 @@
 
 # Hey, I'm Abdelrahman.
 
-**.NET backend developer from Egypt.**  
-Usually **Abdozz** online.
+**.NET backend developer from Egypt.**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJjb3RqdXFveTU2cDlva2p3dzZ0ZjJ5a3owaHRqNHJrdXg5cmtxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gIIVwIiso8Ln5EWxh/giphy.gif" width="240" alt="An anime GIF from my original profile" />
 
@@ -11,7 +10,7 @@ Usually **Abdozz** online.
 
 ---
 
-I learned a lot of backend development by taking responsibility for whole projects and figuring things out along the way. That included two web apps I delivered while working remotely with a Saudi company.
+I spend enough time debugging to appreciate games with no bugs.
 
 The parts that hold my attention are usually behind a button: who can click it, what state the request is in, and what needs to change together in the database.
 
