@@ -18,6 +18,17 @@ Most of my work happens behind the button: permissions, workflows, and keeping d
 
 ## A few things I've built
 
+<details open>
+<summary><strong>Investry</strong> · Three funding models sharing one backend.</summary>
+
+[View the code](https://github.com/abdrhmanZ/investry-backend)
+
+Our graduation project, built by a team of four. I worked across the backend modules connecting founders and investors: equity-based, reward-based, and Mudarabah funding, wallet transactions, and identity verification through Didit.
+
+The investment flow brought together funding rules, wallet balances, and database transactions - plenty to think through in one request.
+
+</details>
+
 <details>
 <summary><strong>Shabaket Omar</strong> · What happens between a booking request and a confirmed agreement?</summary>
 
@@ -31,15 +42,6 @@ One rule I worked on: a customer needs an accepted booking agreement before uplo
 <summary><strong>Meena Event</strong> · Forms, signatures, and the PDF at the end.</summary>
 
 A platform for surveys and document signing, with email invitations and PDF exports. I built its initial data layer with SQL Server and EF Core, and worked on collecting responses and placing signature fields on documents.
-
-</details>
-
-<details>
-<summary><strong>Investry</strong> · Three funding models sharing one backend.</summary>
-
-Our graduation project, built by a team of four. I worked across the backend modules connecting founders and investors: equity-based, reward-based, and Mudarabah funding, wallet transactions, and identity verification through Didit.
-
-The investment flow brought together funding rules, wallet balances, and database transactions - plenty to think through in one request.
 
 </details>
 
