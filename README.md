@@ -10,9 +10,11 @@
 
 ---
 
-I spend enough time debugging to appreciate games with no bugs.
+I build backends with C# and .NET. I enjoy turning business rules into code that’s easy to follow.
 
-The parts that hold my attention are usually behind a button: who can click it, what state the request is in, and what needs to change together in the database.
+Away from the code, I’m usually playing something — occasionally even finishing it.
+
+Most of my work happens behind the button: permissions, workflows, and keeping data consistent.
 
 ## A few things I've built
 
