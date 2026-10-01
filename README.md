@@ -2,7 +2,7 @@
 
 # Hey, I'm Abdelrahman.
 
-**.NET backend developer from Egypt.**
+**Software Engineer focused on .NET backend development.**
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJjb3RqdXFveTU2cDlva2p3dzZ0ZjJ5a3owaHRqNHJrdXg5cmtxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gIIVwIiso8Ln5EWxh/giphy.gif" width="240" alt="An anime GIF from my original profile" />
 
